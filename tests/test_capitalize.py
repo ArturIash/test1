@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+
+
 from capitalize import capitalize
 
 
@@ -10,4 +13,3 @@ if capitalize('') != '':
 
 
 print('Test passed!')
-
